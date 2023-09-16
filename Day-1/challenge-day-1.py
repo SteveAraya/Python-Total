@@ -1,0 +1,1 @@
+print("The name of your beer is: " + '"' + input("Give me a color: ") + " " + input("Give me a word: ") + '"')
